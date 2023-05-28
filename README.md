@@ -1,4 +1,4 @@
-# Memo_Mine
+# Memorize_Mine
 [동아리]Session-Django
 
 ### 공통과제
